@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="230">
 <p>
   <em>
-    Front End Developer at <a href="https://gumiviet.com/">GumiViet</a>
+    Front End Developer at <a href="https://gumiviet.com/">Wata Corp</a>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    Former Front End Developer at <a href="https://gumiviet.com/">GumiViet</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     </br>
     Former Front End Developer at <a href="https://yoong.vn/en/">Yoong Solution</a>
@@ -41,9 +43,9 @@ Here are some ideas to get you started:
 ```javascript
 const HOANG_HOA = {
   pronouns: "He" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Python, PHP, C#],
-  tools: [Angular, SCSS, Bootstrap 4, Tailwindcss, NativeScript, Vue, Vuex, React, Redux, Styled-Components, Gulp, ...],
-  architecture: ["microservices", "event-driven", "Layered Pattern", "Observer", "State"],
+  code: [Javascript, Typescript, HTML, CSS, Python, PHP, Ruby],
+  tools: [Angular, SCSS, Bootstrap 4, Tailwindcss, NativeScript, Vue, Vuex, React, Redux, Rails, Gulp, ...],
+  architecture: ["Microservices", "Event-driven", "Layered Pattern", "Observer", "State"],
   challenge: "I am doing the #100DaysOfCode challenge focused on angular and typescript"
 }
 ```
@@ -56,7 +58,7 @@ const HOANG_HOA = {
 <em>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)  
-  <a href="https://fb.com/vlogbachoa">Vlog Bac Hoa</a> 
+  <a href="https://fb.com/vlogbachoa">Hoang Hoa</a> 
 </em>
 
 ---
