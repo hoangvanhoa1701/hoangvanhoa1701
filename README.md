@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="230">
 <p>
   <em>
-    Front End Developer at <a href="https://gumiviet.com/">Wata Corp</a>
+    Front End Developer at <a href="https://watasolutions.com/">Wata Corp</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </br>
     Former Front End Developer at <a href="https://gumiviet.com/">GumiViet</a>
